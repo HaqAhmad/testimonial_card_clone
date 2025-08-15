@@ -1,0 +1,55 @@
+.div_2{
+    background-color: black;
+    width: 320px;
+    height: 365px;
+    color: #65656E;
+    position: relative;
+    margin: 250px auto;
+    padding: 40px;
+    position: relative;
+}
+
+h3{
+color: white;
+margin-top: 60px;
+margin-bottom: 0;
+margin-left: 93px;
+}
+
+h5{
+    color: white;
+    margin-top: 2px;
+    margin-left: 25px;
+}
+
+p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.div_1{
+    font-family: Sora, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: rgb(113, 113, 122);
+}
+
+.coma_1{
+    position: absolute;
+    top: 3px;
+    left: 3px;
+  width: 45px;
+  height: 45px;
+}
+
+.coma_2{
+    rotate: 180deg;
+     position: absolute;
+    bottom: 3px;
+    right: 3px;
+  width: 45px;
+  height: 45px;
+}
